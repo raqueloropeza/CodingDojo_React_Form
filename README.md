@@ -1,3 +1,10 @@
+# Objectives
+
+1. Build a form using a React Component and hooks. 
+2. Display data that is being inputtined into the form below in real time. 
+3. Include validations for each input field that displays error message.
+4. Ternary operator checks to see if form has already been submitted.  If form has been submitted, message is displayed. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
