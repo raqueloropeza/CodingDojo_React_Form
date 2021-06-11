@@ -2,8 +2,11 @@
 
 1. Build a form using a React Component and hooks. 
 2. Display data that is being inputtined into the form below in real time. 
-3. Include validations for each input field that displays error message.
-4. Ternary operator checks to see if form has already been submitted.  If form has been submitted, message is displayed. 
+3. Include validations for each input field that only appear if the input fields is not blank and disappear in real time when validations have been met. 
+4. First Name and Last Name must be at least 2 characters
+5. E-mail must be at least 5 characters
+6. Passwords must match and be at least 8 characters
+7. Ternary operator checks to see if form has already been submitted.  If form has been submitted, message is displayed. 
 
 # Getting Started with Create React App
 
