@@ -1,0 +1,27 @@
+.container {
+    padding-top: 20px;
+
+
+    
+
+}
+.row {
+    padding: 20px;
+    margin-left:40px;
+    width: 700px;
+
+}
+
+.label {
+    padding-right: 10px;
+}
+
+.input-group-text{
+    width: 100px;
+}
+.form{
+    width: 600px;
+    padding: 20px;
+
+}
+
